@@ -46,4 +46,16 @@ This project is a real-time, end-to-end Azure Data Engineering solution built us
 
 6. Data Consumption: The final dataset is available for Azure Synapse Analytics & Power BI.
 
+## Project Setup
 
+### Prerequisites
+
+1. Azure Account (with free credits)
+
+2. Databricks Workspace (created in Azure Portal)
+
+3. Azure Data Lake Storage (ADLS Gen2)
+
+4. Azure Data Factory (ADF)
+
+5. GitHub Repository Access (for Netflix dataset)

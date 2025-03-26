@@ -59,3 +59,23 @@ This project is a real-time, end-to-end Azure Data Engineering solution built us
 4. Azure Data Factory (ADF)
 
 5. GitHub Repository Access (for Netflix dataset)
+
+## Data Sources
+
+Netflix Movies & TV Shows Dataset (CSV format)
+
+Source: https://www.kaggle.com/datasets/shivamb/netflix-shows
+
+## Key Learnings
+
+1. Building Enterprise-Grade Data Pipelines
+
+2. Implementing Medallion Architecture
+
+3. Working with Azure Data Engineering Tools
+
+4. Handling Real-World Data Scenarios
+
+5. Optimizing Performance using Delta Live Tables
+
+
